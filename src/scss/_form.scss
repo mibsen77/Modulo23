@@ -1,11 +1,12 @@
 form label,input {
+    margin-left: 10px;
     color: $font-color-primary;
     font-size: $font-size-default;
     font-family: $font-default;
     
 }
 .nome_form{
-    margin-left: 10px;
+        
         font-size: 2rem;
         color:$font-color-primary;
         text-align: left;
@@ -13,9 +14,10 @@ form label,input {
         float: left;
 }
 .email_form{
+        
         font-size: 2rem;
         color:$font-color-primary;
-        text-align: center;
+        text-align: left;
         width: 100%;
         float: left;
 }
